@@ -33,3 +33,7 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('sundar'))
 
 console.log(gameName.split('-'));
+//in java script the objects are written in {curly brases}
+
+//function can also be treated as a variable in java script 
+//const myfunction = function(){}
